@@ -1,0 +1,8 @@
+@font-face{
+    src: url("../font/JosefinSans-Regular.ttf");
+    font-family: regular;
+}
+@font-face{
+    src: url("../font/JosefinSans-Bold.ttf");
+    font-family: bold;
+}
